@@ -19,6 +19,8 @@ namespace ProGitForProgrammers
 
         private void mainForm_Load(object sender, EventArgs e)
         {
+            uint a=0;
+            a = 1;
 
         }
     }
