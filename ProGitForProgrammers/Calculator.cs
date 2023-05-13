@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProGitForProgrammers
 {
-    public class Calculator
+    class Calculator
     {
-
+        public int Add(int left, int right)
+        {
+            return left + right;
+        }
     }
 }
