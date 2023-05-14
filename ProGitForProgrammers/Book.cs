@@ -8,6 +8,9 @@ namespace ProGitForProgrammers
 {
     class Book
     {
-        
+        public int add(int a, int b)
+        {
+            return a+b;
+        }
     }
 }
